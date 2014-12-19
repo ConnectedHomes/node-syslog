@@ -1,11 +1,11 @@
 {
   "name"          : "syslog",
   "description"   : "Syslog-ng TCP client, with basic fault-tolerance.",
-  "url"           : "http://github.com/cloudhead/node-syslog",
+  "url"           : "http://github.com/ConnectedHomes/node-syslog",
   "keywords"      : ["syslog", "logger"],
-  "author"        : "Alexis Sellier <self@cloudhead.net>",
+  "author"        : "Peter Bevan <peter@bgch.co.uk>",
   "contributors"  : [],
-  "version"       : "0.1.1",
+  "version"       : "0.1.2",
   "main"          : "./lib/node-syslog",
   "directories"   : { "lib": "./lib" },
   "engines"       : { "node": ">=0.4.2" }
